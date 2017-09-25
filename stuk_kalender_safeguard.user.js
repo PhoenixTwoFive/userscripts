@@ -2,7 +2,7 @@
 // @name         Stuk-Kalender Safeguard
 // @namespace    *
 // @include      https://stuk-kalender.de/*
-// @version      0.1.1
+// @version      0.1.2
 // @description  Fügt eine Nachfrage bei anklicken eines Eintragungsknopf ein.
 // @author       Phillip Kühne
 // @updateURL    https://github.com/PhoenixTwoFive/userscripts/raw/master/stuk_kalender_safeguard.user.js
