@@ -5,6 +5,7 @@
 // @version      0.1
 // @description  Fügt eine Nachfrage bei anklicken eines Eintragungsknopf ein.
 // @author       Phillip Kühne
+// @updateURL    https://github.com/PhoenixTwoFive/userscripts/raw/master/stuk_kalender_safeguard.user.js
 // ==/UserScript==
 function displayAlert(el){
     var alertString = "Möchtest du dich als " + el.parentElement.parentElement.parentElement.parentElement.previousElementSibling.innerText + " eintragen?";
