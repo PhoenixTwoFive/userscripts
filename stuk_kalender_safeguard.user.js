@@ -17,7 +17,7 @@ function displayAlert(el){
     var buttons = [];
     console.log(jobs);
     for (i = 0; i < jobs.length; i++) { 
-        var button = jobs[i].getElementsByClassName("owner")[0].getElementsByClassName("btn-group-xxs")[0].getElementsByClassName("btn")[0];
+        var button = jobs[i].getElementsByClassName("owner")[0].getElementsByClassName("btn-group-xxs")[0].getElementsByClassName("btn-success")[0];
 		if( button !== undefined){
         	buttons.push(button);
         }
